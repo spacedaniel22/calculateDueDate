@@ -1,0 +1,12 @@
+{
+  "name": "emarsys",
+  "version": "1.0.0",
+  "description": "calculateDueDate",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "devDependencies": {}
+}
